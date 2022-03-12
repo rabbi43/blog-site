@@ -1,0 +1,11 @@
+.card{
+	margin:10px 120px;
+	font-size:1.4rem;
+	
+}
+
+.card .btn{
+	display:block;
+	width:170px;
+	
+}
