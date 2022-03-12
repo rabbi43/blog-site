@@ -75,7 +75,8 @@
 	flex-flow:row nowrap;
 	overflow:scroll;
 	position:sticky;
-	position:--webkit--sticky;
+	position:-webkit-sticky;
+	top:0;
 	text-align:center;
 	height:px;
 }
@@ -370,7 +371,6 @@
 .cnt{
 	color:whitesmoke;
 }
-
 
 
 
